@@ -6237,11 +6237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\doan2223\\Kzoe\\KFashion\\KFashion\\KFashion.csproj",
+      "projectUniqueName": "C:\\doan2223\\Kzoe\\KFashion_WebEcommerce\\KFashion\\KFashion.csproj",
       "projectName": "KFashion",
-      "projectPath": "C:\\doan2223\\Kzoe\\KFashion\\KFashion\\KFashion.csproj",
+      "projectPath": "C:\\doan2223\\Kzoe\\KFashion_WebEcommerce\\KFashion\\KFashion.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\doan2223\\Kzoe\\KFashion\\KFashion\\obj\\",
+      "outputPath": "C:\\doan2223\\Kzoe\\KFashion_WebEcommerce\\KFashion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

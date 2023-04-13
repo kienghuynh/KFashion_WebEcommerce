@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d9eCZLUZhKYzT5oIo1oyKoywScR+WmSJgTIi5vjtDrhFn/rnB7hkxF0/c1reiIeNkA0LZotc74KAx4FZPPqvwA==",
+  "dgSpecHash": "UiIV7/AcL4CK0wJvgcBldfD5apFzwWvXZX64ryFMvs5E/GMrNpT+TC4E30P/R0WHDqGvwNz5G4zG4MG2Wt3CBg==",
   "success": true,
-  "projectFilePath": "C:\\doan2223\\Kzoe\\KFashion\\KFashion\\KFashion.csproj",
+  "projectFilePath": "C:\\doan2223\\Kzoe\\KFashion_WebEcommerce\\KFashion\\KFashion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
