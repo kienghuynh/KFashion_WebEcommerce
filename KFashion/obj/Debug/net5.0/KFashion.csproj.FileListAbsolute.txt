@@ -240,3 +240,4 @@ C:\doan2223\Kzoe\KFashion_WebEcommerce\KFashion\obj\Debug\net5.0\refint\KFashion
 C:\doan2223\Kzoe\KFashion_WebEcommerce\KFashion\obj\Debug\net5.0\KFashion.pdb
 C:\doan2223\Kzoe\KFashion_WebEcommerce\KFashion\obj\Debug\net5.0\KFashion.genruntimeconfig.cache
 C:\doan2223\Kzoe\KFashion_WebEcommerce\KFashion\obj\Debug\net5.0\ref\KFashion.dll
+C:\doan2223\Kzoe\KFashion_WebEcommerce\KFashion\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_SideBarPartialView.cshtml.g.cs
